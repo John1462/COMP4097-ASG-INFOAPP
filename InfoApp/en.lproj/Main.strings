@@ -1,0 +1,42 @@
+
+/* Class = "UIViewController"; title = "Map"; ObjectID = "0td-ZO-O70"; */
+"0td-ZO-O70.title" = "Map";
+
+/* Class = "UITableViewController"; title = "Info"; ObjectID = "1gr-8n-EyF"; */
+"1gr-8n-EyF.title" = "Info";
+
+/* Class = "UITableViewSection"; headerTitle = "About Us"; ObjectID = "5Ab-Ys-N1q"; */
+"5Ab-Ys-N1q.headerTitle" = "About Us";
+
+/* Class = "UILabel"; text = "Loaded by FirstViewController"; ObjectID = "A5M-7J-77L"; */
+"A5M-7J-77L.text" = "Loaded by FirstViewController";
+
+/* Class = "UITabBarItem"; title = "Info"; ObjectID = "AEf-5l-vgu"; */
+"AEf-5l-vgu.title" = "Info";
+
+/* Class = "UILabel"; text = "Hong Kong Baptist University (HKBU) is a publicly funded tertiary institution with a Christian education heritage..."; ObjectID = "G8r-Gm-T9P"; */
+"G8r-Gm-T9P.text" = "Hong Kong Baptist University (HKBU) is a publicly funded tertiary institution with a Christian education heritage...";
+
+/* Class = "UILabel"; text = "First View"; ObjectID = "KQZ-1w-vlD"; */
+"KQZ-1w-vlD.text" = "First View";
+
+/* Class = "UILabel"; text = "Loaded by SecondViewController"; ObjectID = "NDk-cv-Gan"; */
+"NDk-cv-Gan.text" = "Loaded by SecondViewController";
+
+/* Class = "UITableViewSection"; headerTitle = "Contact Us"; ObjectID = "WZe-AJ-Hui"; */
+"WZe-AJ-Hui.headerTitle" = "Contact Us";
+
+/* Class = "UITabBarItem"; title = "First"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "First";
+
+/* Class = "UITabBarItem"; title = "Second"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Second";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "lFR-oE-X1i"; */
+"lFR-oE-X1i.title" = "Item";
+
+/* Class = "UITextView"; text = "Tel: (852) 3411-7400\n Fax: (852) 2338-7644\n\nAddress: 224 Waterloo Road, Kowloon Tong, Kowloon."; ObjectID = "vhB-ep-1D2"; */
+"vhB-ep-1D2.text" = "Tel: (852) 3411-7400\n Fax: (852) 2338-7644\n\nAddress: 224 Waterloo Road, Kowloon Tong, Kowloon.";
+
+/* Class = "UILabel"; text = "Second View"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "Second View";
